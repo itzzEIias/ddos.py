@@ -16,6 +16,7 @@ packages, no simulation layer.
 
 ## Installation
 
+(make sure to have git and python/python3 installed)
 ```bash
 git clone https://github.com/itzzEIias/ddos.py.git
 cd ddos.py
